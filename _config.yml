@@ -9,8 +9,8 @@ email: osh3516@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Console theme simplifying Jekyll blog implementation process. Concise and fast theme.
 baseurl: "" # the subpath of your site, e.g. /blog
-production_url: "http://localhost:3000"
-url: "https://osh3516.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+production_url: "https://osh3516.github.io"
+url: "https://osh3516.github.io" # the base hostname & protocol for your site, e.g. https://osh3516.github.io
 permalink: /posts/:categories/:title
 
 # Footer social links if not provided then the icon would not be visible
